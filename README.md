@@ -85,7 +85,7 @@ social-promo-bot/
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/username/social-promo-bot.git
+git clone https://github.com/ladzdzah666/social-promo-bot.git
 cd social-promo-bot
 
 # Initialize virtual environment (recommended)
